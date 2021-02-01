@@ -1,0 +1,17 @@
+.header{
+    float:center;
+    font-weight: bold;
+    text-align: center;
+    font-size: x-large;
+    padding: 15px;
+    padding-top: 20px;
+
+    }
+    .section{
+        padding: 15px;
+
+    }
+    .pagepadding{
+        padding: 30px;
+        padding-top: 80px;
+    }
